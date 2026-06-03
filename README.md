@@ -1,4 +1,4 @@
-# 강태빈 퍼포먼스 마케팅 포트폴리오
+# 강준석 퍼포먼스 마케팅 포트폴리오
 
 ![Python](https://img.shields.io/badge/Python-3.10+-blue?logo=python)
 ![Pandas](https://img.shields.io/badge/Pandas-2.0+-150458?logo=pandas)
@@ -124,4 +124,4 @@ ROAS (광고수익률) = 수익 / 비용 × 100
 
 ---
 
-*강태빈 | taebin0520@gmail.com | 퍼포먼스 마케팅 포트폴리오*
+*강준석 | taebin0520@gmail.com | 퍼포먼스 마케팅 포트폴리오*
